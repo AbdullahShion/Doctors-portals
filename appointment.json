@@ -1,0 +1,39 @@
+[
+    {
+        "id" : 1,
+        "subject" : "Heart Specialist",
+        "visitingHour" : "8:00 AM - 9:00 AM",
+        "totalSpace" : 10
+    },
+    {
+        "id" : 2,
+        "subject" : "Medicine Consultant",
+        "visitingHour" : "10:50 AM - 11:30 AM",
+        "totalSpace" : 10
+    },
+    {
+        "id" : 3,
+        "subject" : "Gynecologist",
+        "visitingHour" : "5:00 PM - 6:00 PM",
+        "totalSpace" : 10
+    },
+    {
+        "id" : 4,
+        "subject" : "Cavity Protection",
+        "visitingHour" : "7:00 AM - 8:30 AM",
+        "totalSpace" : 10
+    },
+    {
+        "id" : 5,
+        "subject" : "Junior Consultant",
+        "visitingHour" : "8:00 AM - 9:00 AM" , 
+        "totalSpace" : 10
+    },
+    {
+        "id" : 6,
+        "subject" : "Senior Consultant",
+        "visitingHour" : "8:00 AM - 9:00 AM" , 
+        "totalSpace" : 10
+    }
+
+]
